@@ -108,7 +108,7 @@
 		<jboss-transaction-spi.version>7.5.2.Final</jboss-transaction-spi.version>
 		<jdom2.version>2.0.6</jdom2.version>
 		<jedis.version>2.9.0</jedis.version>
-		<jersey.version>2.25.1</jersey.version>
+		<jersey.version>2.46</jersey.version>
 		<jest.version>2.0.4</jest.version>
 		<jetty.version>9.4.3.v20170317</jetty.version>
 		<jetty-jsp.version>2.2.0.v201112011158</jetty-jsp.version>
@@ -159,7 +159,7 @@
 		<spring-cloud-connectors.version>1.2.3.RELEASE</spring-cloud-connectors.version>
 		<spring-batch.version>4.0.0.BUILD-SNAPSHOT</spring-batch.version>
 		<spring-data-releasetrain.version>Kay-BUILD-SNAPSHOT</spring-data-releasetrain.version>
-		<spring-hateoas.version>0.23.0.RELEASE</spring-hateoas.version>
+		<spring-hateoas.version>3.0.0</spring-hateoas.version>
 		<spring-integration.version>5.0.0.BUILD-SNAPSHOT</spring-integration.version>
 		<spring-kafka.version>2.0.0.BUILD-SNAPSHOT</spring-kafka.version>
 		<spring-ldap.version>2.3.1.RELEASE</spring-ldap.version>
